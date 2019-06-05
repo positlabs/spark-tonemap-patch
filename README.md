@@ -1,1 +1,3 @@
-# spark-exposure-patch
+# spark-tonemap-patch
+
+Various tonemapping patches for Spark AR
